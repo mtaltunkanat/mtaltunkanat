@@ -47,6 +47,8 @@
  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> 
+ <img style="margin: 10px" src="https://ardalis.com/asp-net-core-naming-history-and-reaction/" alt="Asp.Net" width="50" height="50"/> </a>
 
 <table>
  <tr>
