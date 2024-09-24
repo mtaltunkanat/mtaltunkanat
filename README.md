@@ -49,8 +49,7 @@
  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="Asp.Net" width="50" height="50"/> </a>
-   <a href="https://www.linkedin.com/in/muhammed-taha-altunkanat-9b1b4627a/" target="_blank" rel="noreferrer"> 
- <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/137059339?v=4" alt="MTA" width="50" height="50"/> </a>
+
 
 <table>
  <tr>
