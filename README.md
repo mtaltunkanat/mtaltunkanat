@@ -48,7 +48,7 @@
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> 
- <img style="margin: 10px" src="https://styles.redditmedia.com/t5_3c30n/styles/communityIcon_zk9okbrbph141.png" alt="Asp.Net" width="50" height="50"/> </a>
+ <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="Asp.Net" width="50" height="50"/> </a>
 
 <table>
  <tr>
