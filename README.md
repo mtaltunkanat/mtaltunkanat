@@ -50,7 +50,7 @@
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="Asp.Net" width="50" height="50"/> </a>
   <a href="https://wordpress.com/tr/" target="_blank" rel="noreferrer"> 
- <img style="margin: 10px" src="https://www.cleanpng.com/png-wordpress-logo-theme-1772580/" alt="Wordpress" width="50" height="50"/> </a>
+ <img style="margin: 10px" src="https://www.pngwing.com/en/search?q=wordpress+Logo" alt="WordPress" width="50" height="50"/> </a>
 
 
 <table>
