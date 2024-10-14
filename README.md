@@ -56,9 +56,9 @@
  <img style="margin: 10px" src="https://wordpress.com/wp-content/themes/h4/tabs/images/wpcom-logo-144.png" alt="WordPress" width="50" height="50"/> </a>
  <a href="https://wordpress.com/tr/" target="_blank" rel="noreferrer"> 
  <a style="margin: 10px" src="<a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> 
- <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="C#" width="50" height="50"/></a>
+ <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="Bootstrap" width="50" height="50"/></a>
   <a style="margin: 10px" src="<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
- <img style="margin: 10px" src="https://ncarb.github.io/bootstrap/" alt="C#" width="50" height="50"/></a>
+ <img style="margin: 10px" src="https://ncarb.github.io/bootstrap/assets/img/bootstrap-stack.png" alt="C#" width="50" height="50"/></a>
 
 
 
