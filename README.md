@@ -60,7 +60,7 @@
   <a style="margin: 10px" src="<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://ncarb.github.io/bootstrap/assets/img/bootstrap-stack.png" alt="C#" width="50" height="50"/></a>
    <a style="margin: 10px" src="<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
- <img style="margin: 10px" src="https://www.pngwing.com/en/search?q=react" alt="React.js" width="50" height="50"/></a>
+ <img style="margin: 10px" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="React.js" width="50" height="50"/></a>
 
 
 
