@@ -60,7 +60,7 @@
   <a style="margin: 10px" src="<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://ncarb.github.io/bootstrap/assets/img/bootstrap-stack.png" alt="C#" width="50" height="50"/></a>
    <a style="margin: 10px" src="<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
- <img style="margin: 10px" src="https://www.google.com/search?q=react&sca_esv=31fc9eb8bb598b81&sxsrf=ADLYWIJqfimXWJRWboaygREpHk1H_2tJGg:1729592567362&udm=2&source=iu&ictx=1&vet=1&fir=4fP0joQQKRm5dM%252Cf37ex3LPb9a9oM%252C%252Fm%252F012l1vxv%253BqvuxZjEoQTVqgM%252CQpy23KWIV2MHqM%252C_%253BlXWwYSE6heKAzM%252Cxdzy6kCsnCDquM%252C_%253BbPlO_vHGtM1mDM%252CkvLQhCyyfy0Q6M%252C_%253BLQJEcuYs5VtrBM%252C-hGdpBq5onXeeM%252C_&usg=AI4_-kTERN0oaKDi9toXqg6TpqxQrBQj5g&sa=X&ved=2ahUKEwiwvdW04qGJAxUv_rsIHRgAJTAQ_B16BAg6EAE#vhid=4fP0joQQKRm5dM&vssid=mosaic" alt="React.js" width="50" height="50"/></a>
+ <img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png" alt="React.js" width="50" height="50"/></a>
 
 
 
