@@ -7,7 +7,7 @@
 <table><tr><td valign="top" width="100%">
 - 🌍 Living in Istanbul/Turkey  
   
-- 🌱 I’m currently learning HTML, CSS, JS, REACT
+- 🌱 I’m currently learning REACT.js, NEXT.js, SOCKET.io, TYPESCRİPT
   
 - ❓ Ask me about anything, i'm happy to help you  
   
