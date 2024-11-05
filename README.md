@@ -61,6 +61,9 @@
  <img style="margin: 10px" src="https://ncarb.github.io/bootstrap/assets/img/bootstrap-stack.png" alt="C#" width="50" height="50"/></a>
    <a style="margin: 10px" src="<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React.js" width="50" height="50"/></a>
+   
+ <a style="margin: 10px" src="<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+ <img style="margin: 10px" src="https://i0.wp.com/techprimelab.com/wp-content/uploads/2020/06/SCSS-or-CSS.jpg?fit=1024%2C576&ssl=1" alt="Sass(Scss)" width="50" height="50"/></a>
 
 
 
