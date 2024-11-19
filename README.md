@@ -68,7 +68,7 @@
  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" alt="Sass" width="50" height="50"/></a>
  <a href="https://firebase.com/" target="_blank" rel="noreferrer"> 
- <img style="margin: 10px" src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo-thumbnail.png" alt="Firebase" width="50" height="50"/></a>
+ <img style="margin: 10px" src="https://brandeps.com/logo-download/F/Firebase-logo-02.png" alt="Firebase" width="50" height="50"/></a>
 
 <table>
  <tr>
