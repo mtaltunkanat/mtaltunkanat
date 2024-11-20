@@ -19,7 +19,6 @@
 </div>  
 </td></tr></table>  
 
- waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div align="center">
