@@ -10,7 +10,6 @@
 - ❓ Ask me about anything, i'm happy to help you  
   
 - 📭 Mail me [muhammedaltunkanat.kariyer@gmail.com](mailto:muhammedaltunkanat.kariyer@gmail.com)  
-  
 
 
 </td><td valign="top" width="50%">
@@ -20,7 +19,7 @@
 </div>  
 </td></tr></table>  
 
- 
+ waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div align="center">
