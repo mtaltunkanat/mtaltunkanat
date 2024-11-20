@@ -50,6 +50,7 @@
  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
+   
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="Asp.Net" width="50" height="50"/> </a>
   <a href="https://wordpress.com/tr/" target="_blank" rel="noreferrer"> 
@@ -61,6 +62,7 @@
  <img style="margin: 10px" src="https://ncarb.github.io/bootstrap/assets/img/bootstrap-stack.png" alt="C#" width="50" height="50"/></a>
    <a style="margin: 10px" src="<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React.js" width="50" height="50"/></a>
+   
  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://pluginicons.craft-cdn.com/scssqTY8srJEesn2VFiUV73mUCyRIZsfXfDj2eOY.svg?1528091210" alt="Scss" width="50" height="50"/></a>
  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
