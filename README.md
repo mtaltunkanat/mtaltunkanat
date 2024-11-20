@@ -2,8 +2,6 @@
 <h1 align="left">Hi there ✋✋✋, I'm Muhammed Taha Altunkanat</h1>
 <h3 align="left">Frontend Developer</h3>
 
-<i> </i>
-
 <table><tr><td valign="top" width="100%">
 - 🌍 Living in Istanbul/Turkey  
   
