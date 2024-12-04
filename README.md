@@ -67,7 +67,7 @@
  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" alt="Vite" width="50" height="50"/></a>
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
- <img style="margin: 10px" src="https://akademi.bilgeadam.com/wp-content/uploads/2021/01/postgresql.png" alt="PostgreSQL" width="50" height="50"/></a>
+ <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="50" height="50"/></a>
 
  <a href="https://supabase.com" target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://cdn.prod.website-files.com/655b60964be1a1b36c746790/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png" alt="Supabase" width="50" height="50"/></a>
