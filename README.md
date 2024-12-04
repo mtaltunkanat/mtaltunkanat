@@ -59,9 +59,6 @@
    <a style="margin: 10px"  target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React.js" width="50" height="50"/></a>
   <img style="margin: 10px" src="https://ncarb.github.io/bootstrap/assets/img/bootstrap-stack.png" alt="C#" width="50" height="50"/></a>
-   <a style="margin: 10px"  target="_blank" rel="noreferrer"> 
- <img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React.js" width="50" height="50"/></a>
-   
  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://pluginicons.craft-cdn.com/scssqTY8srJEesn2VFiUV73mUCyRIZsfXfDj2eOY.svg?1528091210" alt="Scss" width="50" height="50"/></a>
  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
