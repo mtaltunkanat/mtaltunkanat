@@ -55,8 +55,6 @@
  <a style="margin: 10px"  target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="Bootstrap" width="50" height="50"/></a>
   <a style="margin: 10px"  target="_blank" rel="noreferrer"> 
- <img style="margin: 10px" src="https://ncarb.github.io/bootstrap/assets/img/bootstrap-stack.png" alt="C#" width="50" height="50"/></a>
-   <a style="margin: 10px"  target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React.js" width="50" height="50"/></a>
   <img style="margin: 10px" src="https://ncarb.github.io/bootstrap/assets/img/bootstrap-stack.png" alt="C#" width="50" height="50"/></a>
  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
