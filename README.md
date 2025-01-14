@@ -72,14 +72,11 @@
  <a href="https://supabase.com" target="_blank" rel="noreferrer"> 
  <img style="margin: 10px" src="https://cdn.prod.website-files.com/655b60964be1a1b36c746790/655b60964be1a1b36c746d41_646dfce3b9c4849f6e401bff_supabase-logo-icon_1.png" alt="Supabase" width="50" height="50"/></a>
  
-<table>
- <tr>
-<table>
- <tr>
-  <td><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtaltunkanat&show_icons=true&locale=en&layout=compact" alt="mtaltunkanat" /></p></td> 
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtaltunkanat&theme=blue-green"></td>
- </tr>
-</table>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtaltunkanat&show_icons=true&locale=en&layout=compact" alt="mtaltunkanat" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtaltunkanat&theme=blue-green">
+
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtaltunkanat&" alt="mtaltunkanat" /></p>
 
